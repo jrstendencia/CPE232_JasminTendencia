@@ -1,6 +1,6 @@
 # CPE232_JasminTendencia
 
-Welcome to my Github repository! This repository contains various scripts and resources related to Managing Enterprise Server.
+Welcome to my Github repository! This repository contains various scripts and resources related to Managing Enterprise Servers.
 
 ##Contents
 
